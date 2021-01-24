@@ -6,6 +6,6 @@ since it is getting popular and has many applications in new technology trends a
 hear from you or get more feedback. Thanks for stopping by!</p>
 
 <ol><h2>Table of Contents: Various Algorithms / Programs</h2>
-<li><a href="https://github.com/WarrenElliot/Python-Projects/blob/main/polynomial.py">Accepting & Computing a Nth Degree Polynomial Equation</a></li>
+<li><a href="https://github.com/WarrenElliot/Python-Projects/blob/main/Polynomial.py">Accepting & Computing a Nth Degree Polynomial Equation</a></li>
 <li><a href="https://github.com/WarrenElliot/Python-Projects/blob/main/Quick-Sort.py">Implementing Quick Sort Algorithm for a list of integers</a> (randomly generated/accepted from console / reading a file)</li>
 </ol>
