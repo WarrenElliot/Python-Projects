@@ -1,5 +1,4 @@
-#Compute a Polynomial Equation
-#https://www.geeksforgeeks.org/python-program-to-compute-a-polynomial-equation/
+#Accepting and computing a Polynomial Equation using Python.
 
 #Using For Loop
 def for_poly(poly, n, x):
