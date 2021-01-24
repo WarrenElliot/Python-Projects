@@ -32,6 +32,7 @@ def listConverter(array_values):
     return arr
 
 def fileInput():
+    #Create a file called  'list-data.txt'with integer numbers in separate lines
     fileName = 'list-data.txt'
     fileObject = open(fileName, "r")
     array_values = fileObject.read().splitlines()
@@ -57,7 +58,7 @@ def consoleInput():
 def main():
     #to accept an array from the console and sort it
     arr = consoleInput()
-    #to accept an array of numbers from a file 'list-data.txt'
+    #to accept an array of numbers from a file. 
     #arr = fileInput()
     #to randomly generate numbers into an array and sort them
     #arr = randomGenerator(30)
